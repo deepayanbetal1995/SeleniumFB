@@ -12,8 +12,8 @@ public class FBClass implements FBInterface{
 
 	private static WebDriver driver = null;
 	String baseURL="https://www.facebook.com";
-	String email = "deepayan.betal@yahoo.com";
-	String password="Deepayan@7";
+	String email = "";
+	String password="";
 	
 	String firstName= "";
 	String lastName="";
